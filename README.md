@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0b1f1a?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
   </a>
   &nbsp;
-  <a href="https://github.com/gabriel_telles">
+  <a href="https://www.instagram.com/gabriel__telle/">
     <img src="https://img.shields.io/badge/Instagram-0b1f1a?style=for-the-badge&logo=instagram&logoColor=00ff9c" />
   </a>
   &nbsp;
